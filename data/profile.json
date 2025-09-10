@@ -9,15 +9,15 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML5",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"
       },
       {
-        "name": "Java",
+        "name": "CSS3",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Angular",
+        "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
       },
       {
@@ -25,7 +25,7 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "Mongodb",
+        "name": "Python",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
       },
       {
@@ -34,11 +34,11 @@
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
+      "Comunicação eficaz",
+      "Organização",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Organização"
+      "Aprendizagem rápida"
     ]
   },
   "languages": [
