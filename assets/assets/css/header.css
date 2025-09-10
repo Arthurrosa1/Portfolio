@@ -15,7 +15,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/assets/img/points.png');
+    background-image: url('../img/points.png');
 }
 
 .header .photo {
@@ -52,21 +52,21 @@
     width: 1rem;
     height: 1rem;
     margin-right: .5rem;
-    background-image: url('/assets/assets/img/person.png');
+    background-image: url('../img/person.png');
     background-repeat: no-repeat;
     background-size: contain;
 }
 
 .info p.loc::before {
-    background-image: url('/assets/assets/img/loc.png');
+    background-image: url('../img/loc.png');
 }
 
 .info p.phone::before {
-    background-image: url('/assets/assets/img/phone.png');
+    background-image: url('../img/phone.png');
 }
 
 .info p.email::before {
-    background-image: url('/assets/assets/img/email.png');
+    background-image: url('../img/email.png');
 }
 
 

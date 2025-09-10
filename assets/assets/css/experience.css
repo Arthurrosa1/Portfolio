@@ -23,6 +23,6 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/assets/img/calendar.png');
+    background-image: url('../img/calendar.png');
     margin-right: .5rem;
 }
